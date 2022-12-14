@@ -1,0 +1,17 @@
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\bin\Debug\net6.0-windows\PW-Lab9.exe
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\bin\Debug\net6.0-windows\PW-Lab9.deps.json
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\bin\Debug\net6.0-windows\PW-Lab9.runtimeconfig.json
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\bin\Debug\net6.0-windows\PW-Lab9.dll
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\bin\Debug\net6.0-windows\PW-Lab9.pdb
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\PW-Lab9.csproj.AssemblyReference.cache
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\PW_Lab9.Form1.resources
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\PW-Lab9.csproj.GenerateResource.cache
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\PW-Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\PW-Lab9.AssemblyInfoInputs.cache
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\PW-Lab9.AssemblyInfo.cs
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\PW-Lab9.csproj.CoreCompileInputs.cache
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\PW-Lab9.dll
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\refint\PW-Lab9.dll
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\PW-Lab9.pdb
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\PW-Lab9.genruntimeconfig.cache
+C:\Users\mikol\source\repos\PW-Lab9\PW-Lab9\obj\Debug\net6.0-windows\ref\PW-Lab9.dll
